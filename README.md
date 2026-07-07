@@ -1,3 +1,4 @@
+![Dashboard](System_Monitoring.png)
 # System Monitoring & Alert System
 
 ## Overview
